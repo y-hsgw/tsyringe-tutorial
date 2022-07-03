@@ -1,3 +1,5 @@
 export class Database {
-  constructor() {}
+  constructor() {
+    console.log("Database");
+  }
 }
